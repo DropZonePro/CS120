@@ -19,3 +19,9 @@ int main()
     m2.a = 100.00;
     m2.b = 123.45;
 }
+
+int main2()
+{
+    vector<int>M(5);
+    M.push_back(12);
+}
